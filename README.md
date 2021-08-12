@@ -1,6 +1,7 @@
 # getpower-online
 Energy vending platform in Nigeria
 Available on https://getpower.ng and flutter
-Visit https://play.google.com/store/apps/details?id=ng.getpower.getpower_app
+Visit Android : https://play.google.com/store/apps/details?id=ng.getpower.getpower_app
 
-iOS still undergoing approval process
+iOS : 
+https://apps.apple.com/ng/app/getpower-online/id1559980321
